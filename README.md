@@ -1,1 +1,1 @@
-# Artificial-Intelligence - CU
+# Artificial-Intelligence
